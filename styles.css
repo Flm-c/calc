@@ -1,0 +1,98 @@
+body{
+    font-family: Arial;
+}
+
+.headr{
+    height: 60px;
+    color: white;
+    background-color: rgb(235,80,23);
+}
+
+a.in_headr{
+    color: white;
+}
+
+.phone_numb{
+    font-size: 16pt;
+    color: rgb(235,80,23);
+}
+
+.without_decor{
+    text-decoration: none;
+}
+
+.breadcr{
+    font-size: 11pt;
+    margin-left: 0px;
+}
+
+a.in_breadcr{
+    color: black;
+}
+
+#calc_title{
+    color: rgb(235,80,23) ;
+
+}
+
+.headr_col{
+    background-color: rgb(35,31,32);
+}
+
+.bd_left{
+    border-left: solid 1px rgb(235,80,23);
+}
+
+.alignall{
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    align-items: center;
+}
+
+.foot{
+    font-size: 11pt;
+    height: 60px;
+    color: white;
+    background-color: rgb(35,31,32);
+    padding-top: 8px;
+}
+
+a.in_footer{
+    color: white;
+}
+
+.calc_cont{
+    margin-left: 10px;
+    background-color: rgb(242,242,242);
+    width: 652px;
+    font-size: 11pt;
+}
+
+.margg{
+    margin-bottom: 20px;
+}
+
+#dt{
+    width: 105px;
+}
+
+.resultrow{
+    margin: 20px 20px 30px 20px;
+}
+.bt{
+    width: 110px;
+}
+
+.fl{
+    display: flex;
+    align-items: center;
+}
+
+.sll{
+    width: 3px;
+    margin-top: 8px;
+}
+.ui-datepicker{
+    z-index: 4 !important;
+}
